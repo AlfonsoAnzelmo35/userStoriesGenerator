@@ -156,5 +156,83 @@ As a Program Administrator/Nursing Staff Member, I want to modify information re
 
 As a Program Administrator/Nursing Staff Member, I want to modify information relating to a Clinical Lab Section.
 
-As a Program Administrator/Nursing Staff Member, I want to modify information relating to a Nursing Student.
+As a Program Administrator/Nursing Staff Member, I want to modify information relating to a Nursing Student_.
+
+As a Program Administrator/Nursing Staff Member, I want to review student applications for clinical placements to ensure qualified candidates are selected.
+
+As a Site Supervisor, I want to receive a list of selected students so that I can prepare for their onboarding.
+
+As a Program Administrator/Nursing Staff Member, I want to evaluate the effectiveness of clinical sites to ensure quality training environments.
+
+As a Site Supervisor, I want to receive feedback reports so that I can improve my practices.
+
+As a Program Administrator/Nursing Staff Member, I want to monitor attendance records for students to ensure compliance with program requirements.
+
+As a student, I want to receive notifications about my attendance status to encourage responsibility.
+
+As a Program Administrator/Nursing Staff Member, I want to update course descriptions in the curriculum to reflect current educational standards.
+
+As a student, I want to receive the updated descriptions so that I can understand the course expectations.
+
+As a Program Administrator/Nursing Staff Member, I want to conduct exit interviews with graduating students to gather insights on program strengths and weaknesses.
+
+As a graduating student, I want to receive follow-up information to address any concerns I raised during the exit interview.
+
+As a Program Administrator/Nursing Staff Member, I want to arrange for guest speakers in the nursing program to provide students with diverse perspectives.
+
+As a student, I want to receive information about guest speakers so that I can participate and learn from the experience.
+
+As a Program Administrator/Nursing Staff Member, I want to create a mentorship program for students to foster professional development.
+
+As a mentor, I want to receive guidelines on my role to ensure I can effectively support students.
+
+As a Program Administrator/Nursing Staff Member, I want to collect feedback on course delivery methods to enhance teaching effectiveness.
+
+As a student, I want to receive opportunities to share my experiences to contribute to continuous improvement.
+
+As a Program Administrator/Nursing Staff Member, I want to organize networking events for students to connect with industry professionals.
+
+As a participant, I want to receive event details so that I can attend and engage with professionals.
+
+As a Program Administrator/Nursing Staff Member, I want to implement a peer review process for clinical assignments to ensure fairness and consistency.
+
+As a student, I want to receive feedback from my peers to enhance my learning experience and accountability.
+
+As a Program Administrator/Nursing Staff Member, I want to access student progress reports to monitor academic performance.
+
+As a student, I want to receive updates on my academic performance to stay informed about my progress.
+
+As a Program Administrator/Nursing Staff Member, I want to assign clinical rotations to students to facilitate their hands-on training.
+
+As a clinical instructor, I want to receive notifications about student assignments so that I can prepare for their arrival.
+
+As a Program Administrator/Nursing Staff Member, I want to collect student evaluations of clinical sites to gather feedback for improving the clinical experience.
+
+As a site supervisor, I want to receive feedback based on student evaluations so that I can enhance my services.
+
+As a Program Administrator/Nursing Staff Member, I want to schedule meetings with faculty members to discuss student progress and program development.
+
+As a faculty member, I want to receive the meeting agenda in advance so that I can prepare for the discussions.
+
+As a Program Administrator/Nursing Staff Member, I want to coordinate training workshops to improve staff skills and knowledge.
+
+As a participant, I want to receive information about the workshops in advance so that I can attend and prepare accordingly.
+
+As a Program Administrator/Nursing Staff Member, I want to compile course materials and share them with students to enhance their learning experience.
+
+As a student, I want to receive the course materials before classes begin so that I can familiarize myself with the content.
+
+As a Program Administrator/Nursing Staff Member, I want to request updates from faculty members on student performance to ensure timely interventions.
+
+As a student, I want to receive updates promptly so that I can stay aware of my academic standing.
+
+As a Program Administrator/Nursing Staff Member, I want to create and distribute student surveys to gather feedback on teaching effectiveness.
+
+As a student, I want to receive the surveys so that I can provide my input and contribute to program improvement.
+
+As a Program Administrator/Nursing Staff Member, I want to manage internship placements for students to ensure they gain practical experience.
+
+As an internship supervisor, I want to receive information about the placements so that I can prepare for hosting the students.
+
+
 
