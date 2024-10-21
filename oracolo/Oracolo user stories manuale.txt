@@ -1,4 +1,4 @@
-﻿0        The system shall be easy to use by the Program Administrators/Nursing Staff Members.
+0        The system shall be easy to use by the Program Administrators/Nursing Staff Members.
 
 
 	AS the Program Administrators/Nursing Staff Members I WANT TO use the system
@@ -281,3 +281,132 @@ Program of Study offered by the department.
 
 	78        Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Nursing Student including student ID student name phone number e-mail status (full time or part time) and program of study.
 	AS Program Administrators/Nursing Staff Members I WANT TO have the ability to modify information relating to a Nursing Student including student ID student name phone number e-mail status (full time or part time) and program of study.
+
+
+	
+
+79        Program Administrators/Nursing Staff Members shall be able to review student applications for clinical placements to ensure qualified candidates are selected. Site supervisors receive a list of selected students to prepare for their onboarding.
+
+
+
+
+	AS Program Administrators/Nursing Staff Members I WANT TO be able to review student applications for clinical placements SO THAT to ensure qualified candidates are selected. AS Site supervisors I WANT TO receive a list of selected students to prepare for their onboarding
+	80        Program Administrators/Nursing Staff Members shall be able to evaluate the effectiveness of clinical sites to ensure quality training environments. Site supervisors receive feedback reports to help improve their practices.
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able to evaluate the effectiveness of clinical sites SO THAT 
+to ensure quality training environments.AS Site supervisors I WANT TO receive feedback reports SO THAT to help improve their practices.
+
+
+	81        Program Administrators/Nursing Staff Members shall be able to monitor attendance records for students to ensure compliance with program requirements. Students receive notifications about their attendance status to encourage responsibility.
+
+
+
+
+
+
+
+
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able monitor attendance records for students SO THAT to ensure compliance with program requirements.AS Students I WANT TO  receive notifications about their attendance status SO THAT to encourage responsibility.
+
+
+	82        Program Administrators/Nursing Staff Members shall be able to update course descriptions in the curriculum to reflect current educational standards. Students receive the updated descriptions to ensure they understand course expectations.
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able to update course descriptions in the curriculum SO THATo reflect current educational standards. AS Students I WANT TO receive the updated descriptions SO THAT to ensure they understand course expectations.
+	83        Program Administrators/Nursing Staff Members shall be able to conduct exit interviews with graduating students to gather insights on program strengths and weaknesses. Graduating students receive follow-up information to address any concerns they raised.
+
+
+
+
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able to conduct exit interviews with graduating students SO THAT to gather insights on program strengths and weaknesses. AS Graduating students I WANT TO receive follow-up information SO THAT to address any concerns they raised.
+
+
+	84        Program Administrators/Nursing Staff Members shall be able to arrange for guest speakers in the nursing program to provide students with diverse perspectives. Students receive information about guest speakers to encourage participation and learning.
+
+
+
+
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able to arrange for guest speakers in the nursing program SO THAT to provide students with diverse perspectives. AS Students I WANT TO receive information about guest speakers SO THAT  to encourage participation and learning.
+
+
+
+
+	85        Program Administrators/Nursing Staff Members shall be able to create a mentorship program for students to foster professional development. Mentors receive guidelines on their roles to ensure effective support for students.
+
+
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able  to create a mentorship program for students SO THAT to foster professional development. AS Mentors I WANT TO receive guidelines on their roles SO THAT to ensure effective support for students.
+
+
+	86        Program Administrators/Nursing Staff Members shall be able to collect feedback on course delivery methods to enhance teaching effectiveness. Students receive opportunities to share their experiences to contribute to continuous improvement.'
+
+
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able to collect feedback on course delivery methods  SO THAT to enhance teaching effectiveness. AS Students I WANT TO receive opportunities SO THAT to share their experiences to contribute to continuous improvement.'
+	87        Program Administrators/Nursing Staff Members shall be able to organize networking events for students to connect with industry professionals. Participants receive event details to encourage attendance and engagement.
+
+
+
+
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able  to organize networking events for students  SO THAT to connect with industry professionals. AS Participants I WANT TO receive event details  SO THAT to encourage attendance and engagement.
+
+
+	88        Program Administrators/Nursing Staff Members shall be able to implement a peer review process for clinical assignments to ensure fairness and consistency. Students receive feedback from peers to enhance their learning experience and accountability.
+
+
+
+
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able to implement a peer review process for clinical assignments SO THAT to ensure fairness and consistency.AS Students I WANT TO receive feedback from peers SO THAT to enhance their learning experience and accountability.
+	89        Program Administrators/Nursing Staff Members shall be able to access student progress reports to monitor academic performance. Students receive updates on their academic performance to stay informed about their progress.
+
+
+
+
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able to access student progress reports SO THAT to monitor academic performance. AS Students I WANT TO receive updates  on their academic performance SO THAT to stay informed about their progress.
+	90        Program Administrators/Nursing Staff Members shall be able to assign clinical rotations to students to facilitate their hands-on training. Clinical instructors receive notifications about those assignments to prepare for the students arrival.
+
+
+
+
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able to assign clinical rotations to students SO THAT to facilitate their hands-on training.AS Clinical instructors I WANT TO receive notifications about those assignments SO THAT to prepare for the students arrival.
+	91        Program Administrators/Nursing Staff Members shall be able to collect student evaluations of clinical sites to gather feedback for improving the clinical experience. Site supervisors receive feedback based on those evaluations to enhance their services.
+
+
+
+
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able to collect student evaluations of clinical sites to gather feedback SO THAT for improving the clinical experience. AS Site I WANT TO supervisors receive feedback based on those evaluations  SO THAT to enhance their services.
+
+
+	92        Program Administrators/Nursing Staff Members shall be able to schedule meetings with faculty members to discuss student progress and program development. Faculty members receive the meeting agenda in advance to prepare effectively for the discussions.
+
+
+
+
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able to schedule meetings with faculty members  SO THAT to discuss student progress and program development. AS Faculty members I WANT TO receive the meeting agenda in advance to prepare effectively  SO THAT  for the discussions.
+	93        Program Administrators/Nursing Staff Members shall be able to coordinate training workshops to improve staff skills and knowledge. Participants receive information about the workshops in advance to ensure they can attend and prepare.
+
+
+
+
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able to coordinate training workshops SO THAT to improve staff skills and knowledge. AS Participants I WANT TO receive information about the workshops in advance SO THAT to ensure they can attend and prepare.
+	94        Program Administrators/Nursing Staff Members shall be able to compile course materials and share them with students to enhance their learning experience. Students receive the materials before classes begin to familiarize themselves with the content.
+
+
+
+
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able to compile course materials and share them with students SO THAT to enhance their learning experience. AS Students I WANT TO receive the materials before classes begin to familiarize themselves with the content.
+
+
+	95        Program Administrators/Nursing Staff Members shall be able to request updates from faculty members on student performance to ensure timely interventions. Students receive these updates promptly to stay aware of their academic standing.
+
+
+
+
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able to request updates from faculty members on student performance SO THAT  to ensure timely interventions. AS Students I WANT TO receive these updates promptly SO THAT to stay aware of their academic standing.
+	96        Program Administrators/Nursing Staff Members shall be able to create and distribute student surveys to gather feedback on teaching effectiveness. Students receive the surveys to provide their input and contribute to program improvement.
+
+
+
+
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able to create and distribute student surveys SO THAT to gather feedback on teaching effectiveness. AS Students I WANT TO receive the surveys to provide their input and contribute SO THAT  to program improvement.
+	97        Program Administrators/Nursing Staff Members shall be able to manage internship placements for students to ensure they gain practical experience. Internship supervisors receive information about the placements to prepare for hosting the students.
+
+
+
+
+	AS  Program Administrators/Nursing Staff Members I WANT TO be able to manage internship placements for students SO THAT to ensure they gain practical experience. AS Internship supervisors IN WANT TOreceive information about the placements to prepare SO THAT for hosting the students.
