@@ -1,0 +1,23 @@
+1. AS a Registered User, I WANT TO maintain my session for at least 60 minutes of inactivity so that I can continue my shopping without interruptions.
+
+2. AS a Registered User, I WANT TO update my account details at any time so that my personal information is always current.
+
+3. AS a Registered User,I WANT TO manage my product wishlist by adding or removing items at any time so that I can keep track of my desired products.
+
+4. AS a Registered User,I WANT TO see my updated wishlist reflected across all devices so that I have consistent access to my preferences.
+
+5. AS a Registered User,I WANT TO apply filters to search results so that I can find specific products quickly.
+
+6. AS a Registered User,I WANT TO subscribe to notifications for out-of-stock items so that I am informed when they become available again.
+
+7. AS a Registered User,I WANT TO choose my preferred delivery address at checkout so that my purchases are sent to the correct location.
+
+8. AS an Admin,I WANT TO redeem discount codes during checkout so that customers can benefit from promotions.
+
+9. AS a Customer,I WANT TO submit product reviews after a purchase so that I can share my experience with others.
+
+10. AS a Site User,I WANT TO save items to my shopping cart for later so that I can complete my purchase at my convenience.
+
+11. AS a Site User, I WANT TO track the status of my orders in real time so that I can stay informed about my deliveries.
+
+12. AS a Customer, I WANT TO customize my notification preferences so that I can choose how and when I receive alerts.
