@@ -1,23 +1,32 @@
-1. AS a Registered User, I WANT TO maintain my session for at least 60 minutes of inactivity so that I can continue my shopping without interruptions.
-
-2. AS a Registered User, I WANT TO update my account details at any time so that my personal information is always current.
-
-3. AS a Registered User,I WANT TO manage my product wishlist by adding or removing items at any time so that I can keep track of my desired products.
-
-4. AS a Registered User,I WANT TO see my updated wishlist reflected across all devices so that I have consistent access to my preferences.
-
-5. AS a Registered User,I WANT TO apply filters to search results so that I can find specific products quickly.
-
-6. AS a Registered User,I WANT TO subscribe to notifications for out-of-stock items so that I am informed when they become available again.
-
-7. AS a Registered User,I WANT TO choose my preferred delivery address at checkout so that my purchases are sent to the correct location.
-
-8. AS an Admin,I WANT TO redeem discount codes during checkout so that customers can benefit from promotions.
-
-9. AS a Customer,I WANT TO submit product reviews after a purchase so that I can share my experience with others.
-
-10. AS a Site User,I WANT TO save items to my shopping cart for later so that I can complete my purchase at my convenience.
-
-11. AS a Site User, I WANT TO track the status of my orders in real time so that I can stay informed about my deliveries.
-
-12. AS a Customer, I WANT TO customize my notification preferences so that I can choose how and when I receive alerts.
+1. As a Registered User, I want to maintain my session for at least 60 minutes of inactivity so that I don't have to log in frequently.
+2. As a Registered User, I want access to all E-store options whenever I log in, regardless of the time.
+3. As a Customer, I want to save multiple shipping addresses in my account settings so that I can easily choose one during checkout.
+4. As a Customer, I want to modify my shipping addresses at any time to keep them up to date.
+5. As a Site User, I want to receive email notifications about special promotions and discounts to stay informed.
+6. As a Site User, I want to manage my notification preferences easily so that I control the communications I receive.
+7. As a User, I want to view detailed product descriptions and specifications for each item so that I can make informed purchasing decisions.
+8. As a User, I want to report inaccuracies in product information to help improve the store's content.
+9. As an Admin, I want to manage user accounts, including deactivating or deleting accounts, to maintain the system's integrity.
+10. As an Admin, I want to reactivate user accounts when necessary to restore access for legitimate users.
+11. As a Moderator, I want to review and approve user-generated content, such as product reviews, to ensure it complies with guidelines.
+12. As a Moderator, I want to reject content that violates guidelines to maintain quality and relevance.
+13. As a Customer, I want to navigate through product categories and subcategories easily so that I can find items quickly.
+14. As a Customer, I want to filter products by various criteria for easier browsing and selection.
+15. As a Site User, I want to access a personalized dashboard that summarizes my recent activity to stay updated.
+16. As a Site User, I want to customize the layout of my dashboard to match my preferences.
+17. As a User, I want to filter search results by price, brand, and ratings to find products that meet my needs.
+18. As a User, I want to sort the results by popularity or new arrivals to browse trending or new items.
+19. As an Admin, I want to generate sales reports based on various time frames to analyze performance.
+20. As an Admin, I want to export sales reports in multiple formats for further analysis and sharing.
+21. As a Moderator, I want to monitor user interactions to flag inappropriate content or behavior for a safe environment.
+22. As a Moderator, I want to issue warnings to users for minor infractions to maintain order in the community.
+23. As a Customer, I want to track my shipment status in real-time so that I know when my order will arrive.
+24. As a Customer, I want to receive updates via email or SMS notifications about my shipment to stay informed.
+25. As a Site User, I want to edit my profile information, including username and password, to keep my account details accurate.
+26. As a Site User, I want to view my account activity history to keep track of changes made.
+27. As a User, I want to access a help center with FAQs and customer support contact information to resolve any issues.
+28. As a User, I want to submit inquiries through the help center to get assistance when needed.
+29. As an Admin, I want to set promotional banners on the homepage to highlight ongoing sales and attract customers.
+30. As an Admin, I want to schedule the display of banners for specific periods to align with promotions.
+31. As a Moderator, I want to initiate discussions in community forums to engage with users on relevant topics.
+32. As a Moderator, I want to close discussions that are no longer relevant to maintain forum quality.
