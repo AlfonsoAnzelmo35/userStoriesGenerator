@@ -1041,3 +1041,4 @@
 49,'The Site User must be able to save items to a shopping cart and complete the purchase at a later time. The cart contents should persist across sessions and devices without expiring or requiring re-entry of items',F
 49,'The Site User must be able to track the status of their orders in real time. The order tracking information should be updated automatically as changes occur, with no manual refresh required by the user.',F
 49,'The Customer must be able to customize notification preferences, including email and SMS alerts. All changes made to notification settings should be applied immediately without needing to log out or restart the application.',F
+
