@@ -1,0 +1,32 @@
+﻿AS The Registered User I WANT TO  be able to maintain his/her session information for at least 60 minutes of inactive session before the system prompts him to log out of the system. 
+AS The registered user I WANT TO be provided with all the options of the E-store regardless of the time when he/she logs in.
+AS The Customer I WANT TO be able to save multiple shipping addresses in their account settings.
+AS The Customer  I WANT TO be able to modify the addresses specified at any time.
+AS The Site User I WANT TO be able to receive email notifications for special promotions and discounts.
+AS The Site User I WANT TO be able to manage their notification preferences easily.
+AS The User I WANT TO be able to view detailed product descriptions and specifications for each item.
+AS The User I WANT TO be able to report inaccuracies in the product information.
+AS The Admin I WANT TO be able to manage user accounts, including the ability to deactivate or delete accounts.
+AS The Admin I WANT TO be able to reactivate accounts when necessary.
+AS The Moderator I WANT TO be able to review and approve user-generated content, such as product reviews and comments.
+AS The Moderator I WANT TO be able to reject content that violates guidelines.
+AS The Customer I WAnt to be able to easily navigate through product categories and subcategories.
+AS The Customer I WANT TO be able to filter products by various criteria for easier browsing.
+AS The Site User I WANT TO be able to access a personalized dashboard that summarizes their recent activity, including orders and wishlists.
+AS The Site User I WANT TO be able to customize the layout of the dashboard.
+AS The User I WANT TO be able to filter search results by price range, brand, and ratings.
+AS The User I WANT TO be able to sort the results based on popularity or new arrivals.
+AS The Admin I WANT TO be able to generate sales reports based on various time frames, such as daily, weekly, and monthly.
+AS The Admin must I WANT TO be able to export reports in multiple formats for analysis.
+AS The Moderator I WANT TO be able to monitor user interactions and flag any inappropriate content or behavior.
+AS The Moderator I WANT TO be able to issue warnings to users for minor infractions.
+AS The Customer I WANT TO be able to track their shipment status in real time.
+AS The Customer I WANT TObe able to receive updates via email or SMS notifications.
+AS The Site User I WANT TO be able to edit their profile information, including username and password, at any time.
+AS The Site User I WANT TO be able to view their account activity history.
+AS The User I WANT TO be able to access a help center with FAQs and contact information for customer support.
+AS The User I WANT TO be able to submit inquiries through the help center.
+AS The Admin I WANT TO be able to set promotional banners on the homepage to highlight ongoing sales.
+AS The Admin I WANT TO be able to schedule the display of banners for specific periods.
+AS The Moderator I WANT TO be able to initiate discussions in community forums and engage with users.
+AS The Moderator I WANT TO be able to close discussions that are no longer relevant.
