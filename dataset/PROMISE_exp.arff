@@ -832,7 +832,7 @@
 34,'Customers should have the option to provide feedback through the system after their meal, either through the mobile app or via a tablet at the table.',F
 34,'The system should provide the manager with an estimate of wait times and generate reports showing the average preparation time for each dish.',F
 34,'The system should allow the manager to create and manage staff schedules, sending notifications to employees regarding their shifts.',F
-34,'Customers should be able to enroll in a loyalty program through the restaurant's mobile app, earning points for each order that can be redeemed for discounts.',F
+34,'Customers should be able to enroll in a loyalty program through mobile app of the restaurant , earning points for each order that can be redeemed for discounts.',F
 34,'The cashier should be able to generate and process customer bills, supporting multiple payment methods like cash, card, and digital wallets.',F
 35,'The logo and the current basic design of registration system should be displayed. The system should be attractive according to the clients. The design and the color should make users feel comfortable when using the system instead of flashing useless colors on the screen. The design should also reflect the seriousness of the environment.',LF
 35,'The system should be able to manage all the information incoming from the database and the catalogue.',O
