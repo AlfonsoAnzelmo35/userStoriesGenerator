@@ -819,21 +819,21 @@
 33,'The system should require the user to state time when should the doughnut be delivered.',F
 33,'The system should have to keep the location where the doughnut will be send.',O
 33,'The website is available whenever the users want to use it.',A
-34,'Order Taking (Waiter): A waiter should be able to use a tablet to take customer orders and send them directly to the kitchen staff for faster order processing.',F
-34,'Menu Access (Waiter): The waiter must be able to view the restaurant’s current menu on their tablet, including prices and availability of items.',F
-34,'Order Taking and Modifying (Waiter): A waiter should be able to use a tablet to take customer orders and also modify existing orders before they are finalized to accommodate special requests.',F
-34,'Chef Notification and Order Tracking (Chef/Waiter): The kitchen staff should automatically receive notifications when a new order is placed, and the waiter should be able to track the status of the order on their tablet.',F
-34,'Reservation System and Wait Time Estimation (Customer/Manager): Customers should be able to make reservations online, while the system provides the manager with an estimated wait time based on current demand.',F
-34,'Inventory Management (Manager): The restaurant manager should be able to track and manage inventory levels, with the system automatically updating stock levels after each order.',F
-34,'Billing and Split Payments (Cashier/Customer): The cashier should be able to generate bills and process various payment methods, while also allowing customers to split the bill among multiple payers.',F
-34,'Order Status (Customer): Customers should be able to view the status of their order on a mobile app or on a display within the restaurant, showing when it’s being prepared or ready.',F
-34,'Table Assignment and Order Notification (Host/Hostess/Chef): The host should be able to assign customers to available tables, and the kitchen staff should automatically receive order notifications once customers are seated.',F
-34,'Menu Updates and Inventory Management (Chef/Manager): The chef should be able to update the menu in real-time, while the manager tracks inventory levels, automatically updating stock after each order.',F
-34,'Customer Feedback (Customer): Customers should have the option to provide feedback through the system after their meal, either through the mobile app or via a tablet at the table.',F
-34,'Wait Time Estimation and Kitchen Efficiency Report (Manager): The system should provide the manager with an estimate of wait times and generate reports showing the average preparation time for each dish.
-34,'Staff Scheduling (Manager): The system should allow the manager to create and manage staff schedules, sending notifications to employees regarding their shifts.',F
-34,'Loyalty Program (Customer): Customers should be able to enroll in a loyalty program through the restaurant's mobile app, earning points for each order that can be redeemed for discounts.',F
-34,'Billing and Payments (Cashier): The cashier should be able to generate and process customer bills, supporting multiple payment methods like cash, card, and digital wallets.',F
+34,'A waiter should be able to use a tablet to take customer orders and send them directly to the kitchen staff for faster order processing.',F
+34,'The waiter must be able to view the restaurant’s current menu on their tablet, including prices and availability of items.',F
+34,'A waiter should be able to use a tablet to take customer orders and also modify existing orders before they are finalized to accommodate special requests.',F
+34,'The kitchen staff should automatically receive notifications when a new order is placed, and the waiter should be able to track the status of the order on their tablet.',F
+34,'Customers should be able to make reservations online, while the system provides the manager with an estimated wait time based on current demand.',F
+34,'The restaurant manager should be able to track and manage inventory levels, with the system automatically updating stock levels after each order.',F
+34,'The cashier should be able to generate bills and process various payment methods, while also allowing customers to split the bill among multiple payers.',F
+34,'Customers should be able to view the status of their order on a mobile app or on a display within the restaurant, showing when it’s being prepared or ready.',F
+34,'The host should be able to assign customers to available tables, and the kitchen staff should automatically receive order notifications once customers are seated.',F
+34,'The chef should be able to update the menu in real-time, while the manager tracks inventory levels, automatically updating stock after each order.',F
+34,'Customers should have the option to provide feedback through the system after their meal, either through the mobile app or via a tablet at the table.',F
+34,'The system should provide the manager with an estimate of wait times and generate reports showing the average preparation time for each dish.
+34,'The system should allow the manager to create and manage staff schedules, sending notifications to employees regarding their shifts.',F
+34,'Customers should be able to enroll in a loyalty program through the restaurant's mobile app, earning points for each order that can be redeemed for discounts.',F
+34,'The cashier should be able to generate and process customer bills, supporting multiple payment methods like cash, card, and digital wallets.',F
 35,'The logo and the current basic design of registration system should be displayed. The system should be attractive according to the clients. The design and the color should make users feel comfortable when using the system instead of flashing useless colors on the screen. The design should also reflect the seriousness of the environment.',LF
 35,'The system should be able to manage all the information incoming from the database and the catalogue.',O
 35,'The product is Web based therefore it will be used in any environment that allows Web access.',PO
