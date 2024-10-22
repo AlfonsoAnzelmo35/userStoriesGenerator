@@ -1,0 +1,21 @@
+﻿AS waiter  I WANT TO  be able to use a tablet to take customer orders and send them directly to the kitchen staff for faster order processing.
+AS waiter I WANT TO be able to view the restaurant’s current menu on their tablet, including prices and availability of items.
+AS waiter  I WANT TO be able to use a tablet to take customer orders.
+AS waiter  I WANT TO be able to modify existing orders before they are finalized to accommodate special requests.
+AS kitchen staff  I WANT TO receive notifications when a new order is placed
+AS waiter I WANT TO be able to track the status of the order on their tablet.
+AS Customers  I WANT TO be able to make reservations online.
+AS manager I WANT TO  the system provides with an estimated wait time based on current demand.
+AS The restaurant manager I WANT TO be able to track and manage inventory levels.
+AS The cashier I WANT TO be able to generate bills and process various payment methods.
+AS customers I WANT TO allow to split the bill among multiple payers.
+AS Customers  I WANT TO be able to view the status of their order on a mobile app or on a display within the restaurant, showing when it’s being prepared or ready.
+AS The host I WANT TO be able to assign customers to available tables.
+AS the kitchen staff I WANT TO automatically receive order notifications once customers are seated.
+AS The chef I WANT TO be able to update the menu in real-time. 
+AS the manager I WANT TO racks inventory levels, automatically updating stock after each order.
+AS Customers  I WANT TO ave the option to provide feedback through the system after their meal,either through the mobile app or via a tablet at the table.
+AS manager  I WANT TO the system to estimate the wait times and generate reports showing the average preparation time for each dish.
+AS manager  I WANT TO the system allows  to create and manage staff schedules, sending notifications to employees regarding their shifts.
+AS Customers  I WANT TO  be able to enroll in a loyalty program through the restaurant's mobile app, earning points for each order that can be redeemed for discounts.
+AS The cashier I WANT TO generate and process customer bills, supporting multiple payment methods like cash, card, and digital wallets.

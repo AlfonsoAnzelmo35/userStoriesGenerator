@@ -1,0 +1,30 @@
+As a waiter, I want to take customer orders using a tablet so that I can send them directly to the kitchen staff for faster order processing.
+As a waiter, I want to ensure that the orders I take are sent directly to the kitchen staff, so there are no delays in processing.
+As a waiter, I want to view the restaurant's current menu on my tablet so that I can provide customers with accurate information about prices and availability.
+As a waiter, I need to quickly access the menu on my tablet to assist customers efficiently.
+As a waiter, I want to modify existing customer orders using my tablet so that I can accommodate special requests.
+As a waiter, I need to ensure that all modifications to customer orders are finalized before sending them to the kitchen.
+As kitchen staff, I want to receive automatic notifications for new orders so that I can start preparing them immediately.
+As a waiter, I want to track the status of customer orders on my tablet to keep customers informed about their meals.
+As a customer, I want to make reservations online so that I can ensure a table is available when I arrive.
+As a manager, I want to receive estimated wait times based on current demand so that I can manage customer expectations effectively.
+As a manager, I want to track inventory levels so that I can ensure we have enough stock for all menu items.
+As a manager, I need the system to automatically update stock levels after each order to maintain accurate inventory records.
+As a cashier, I want to generate bills quickly so that customers can see their total amounts due.
+As a customer, I want to split the bill among multiple payers so that everyone can pay their share easily.
+As a customer, I want to view the status of my order on my mobile app so that I can track when my meal will be ready.
+As a restaurant patron, I need to see my order status displayed in the restaurant to stay informed while I wait.
+As a host, I want to assign customers to available tables so that we can efficiently manage seating arrangements.
+As kitchen staff, I want to receive order notifications after customers are seated to ensure prompt service.
+As a chef, I want to update the menu in real-time so that customers have access to the latest offerings.
+As a manager, I need to track inventory levels automatically updated after each order to maintain accurate stock information.
+As a customer, I want to provide feedback through the mobile app after my meal to share my dining experience.
+As a diner, I need to have the option to submit feedback via a tablet at the table to ensure my comments are recorded.
+As a manager, I want to receive estimates of wait times so that I can manage customer expectations effectively.
+As a manager, I need reports on average preparation times for each dish to identify any potential delays.
+As a manager, I want to create and manage staff schedules so that I can ensure adequate coverage during service hours.
+As an employee, I want to receive notifications about my shifts so that I can plan my time accordingly.
+As a customer, I want to enroll in a loyalty program through the mobile app so that I can earn points for my orders.
+As a customer, I need to redeem my loyalty points for discounts on future orders to enjoy savings.
+As a cashier, I want to process customer bills using various payment methods so that customers can choose their preferred option.
+As a customer, I need the option to pay with cash, card, or digital wallets for convenience when settling my bill.
